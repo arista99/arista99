@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arista99 or Kevin Torres
-- 👀 I’m interested in programming and design and marketing
+- 👀 I’m interested in programming and design 
 - 🌱 I’m currently learning e commerce y marketing
 - 💞️ I’m looking to collaborate on proyect web
 - 📫 How to reach me e-mail torres.arista99@gmail.com
